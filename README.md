@@ -10,9 +10,6 @@ Functions
 -Return a book 
 -Quote generator 
 
-
-#Pradhu007
-#Pradhu007
-#Library
-#Pradhu007
-#Fun Library System in Python!
+- Item 1
+- Item 2
+- Item 3
