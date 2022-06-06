@@ -5,10 +5,10 @@ Library Management System made in Python
 
 
 Functions
-. List available Books
-. Borrow a book
-. Return a book 
-. Quote generator 
+- List available Books
+-Borrow a book
+-Return a book 
+-Quote generator 
 
 
 #Pradhu007
