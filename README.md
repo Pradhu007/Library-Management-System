@@ -1,7 +1,15 @@
 # Library-Management-System in Python by Pradhu007
 
 
-Library Management System made in Python1d
+Library Management System made in Python
+
+
+Functions
+. List available Books
+. Borrow a book
+. Return a book 
+. Quote generator 
+
 
 #Pradhu007
 #Pradhu007
