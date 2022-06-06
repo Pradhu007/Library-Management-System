@@ -4,12 +4,10 @@
 Library Management System made in Python
 
 
-Functions
-- List available Books
--Borrow a book
--Return a book 
--Quote generator 
+Features 
 
-- Item 1
-- Item 2
-- Item 3
+- List Available Books
+- Borrow a book 
+- Return a book 
+- Quote Generator 
+- Add a custom book 
